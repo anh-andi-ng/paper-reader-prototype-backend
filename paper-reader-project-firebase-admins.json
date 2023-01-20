@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "paper-reader-project",
+  "private_key_id": "c27a18395bb1d77812bddde3fe2964f5b345afad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFliaONTvqMRPj\nWKIL6+A4w3UGornjp84sk1rJolnDxtHEsD1bCdGZ6zcpPMLu19lzyodIkm1ZFpC4\nSDU/SE3qpjxHU48KIpCu18UEbC82DFy9b2/lZPqOt1j0YvjTb9xL9AATk6vihAhi\nNxj1Qz3laTZvOYZcv4IQSeUbS/TeChLvVaBvDjcgzG8TFitjRJre7ev4leuao1jj\nLnuSQXuehNVABVKjL/mIlu5OF4CRuRc3Jvk7eqDiAudF1P79mra8QbGpH+tcET8X\n4h9p/PheH6MK23fvucru5evN/fAwkJptB8SHsiH6Zi0f1d5EEIt2b7Ecn9R1zwhm\nuRL/+Uv/AgMBAAECggEAYsO+PAFiFJs5nL+2KI1cRCN3gLygfKpphaCWlgmAIztj\nqZSK5tHOosiPhx5nNipQ+O84lk8TN5/u8R6u9xX2VJ+JrAGZk3BZr/wM8Dv/kV22\nkb59SUYjdGkznt1GEbJthM3Pp/l9xrlG04lFAXv+GYlw+0He5seXhPra+b0LBl1T\nktUhYOblzOF5HRuE71D6oZRkjIEGL/lO+kDIG0hAf/uTZc0dS4pNSE3yPnLnJzJD\npgMUVlnx63XwGrllnI5gbSXxVF/Dx/h+lZIufOg9LWEXb1sjdleXXVqM8H9OzYmj\nIqHUsQjYbJSmLQnsS5GOEMllWb1Cps844oZnF2pFIQKBgQDtd4RT7C2aTJWjg9v3\nGEIFjRZDKJq3BAlm26v6IUumjxUvhxXJ8jgELRYca7DlNSxOkiEDQDoCSWAYOpzl\nppK9q52XLxx55AwoR9pBCNPIHu6wxIF9/A3sE4QGk7KMkMzsykynEelJvqRk20hk\nYio2kp0jwgvVoMArkFkVu1H9jwKBgQDVAdeYiChueWXc4Ui1OmeWhs9V+FzmExW0\n1BVfDGoLqs5roBjDZcl6caXrZWeGON1woEgr8C9G1adiPD6LHyAQy0J8qEiCA7Zc\nKsa3rkMn51471KDVTCH7v4YbL/4rmCJC8LCqE/DkIb3OeZ0CToJElf4oJTEFF1vG\n21XDUPFykQKBgDDX7Hf2lEqwhfbkIFJqwumxY2rc5zXNtsFZXb5NKupPc+QavPiU\nwcDaJTojTHdYwIxIslGg3E2sGf/hznPOF1C8A+Yc4paPuZBvdwz5a9Y1xpLFWH05\nYwOz3+waZRdUkVIDKlES9hEdDWNRV0qOhnBDJ987AoQmVGChiDFYHj0xAoGAcoHW\nA7KWgaUTRGV7b6lhDIOWLDIixrBVx+sHPhxvWaxN4X+kME6kvAUiW+QcfgRNzoDr\nq2soDx1GKUIXoTRvSXfrWxYgPHyAaRW50/6DLY1slB9fAqs1zZ8NGcp4Cbl0GaZI\nYnXr1sfowHmSFS5dSz+S7MPpkUIYXVOFzETUN3ECgYA72R97/maOuhfLnHWrAcWj\nRXChyCcJADa8iW/dXFxCa4p5C9hMeypN6AUyWvjhnD7GKC3wJQkse4hn3hn/G+ci\nnPJV3F6ZE6Q2aBqG8vNt40Dkk/rGTijCb5zR46cQh3ICnpHMzzmdzyqkj0NiYp+t\nL/O+x4taU28xpKXLFKdNxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4az3v@paper-reader-project.iam.gserviceaccount.com",
+  "client_id": "114833326199575474846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4az3v%40paper-reader-project.iam.gserviceaccount.com"
+}
